@@ -1,4 +1,4 @@
-package com.example.mikle.exp1;
+package com.example.mikle.exp1.screens;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
@@ -7,6 +7,7 @@ import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.EditText;
 
+import com.example.mikle.exp1.R;
 
 
 public class MainActivity extends AppCompatActivity {
